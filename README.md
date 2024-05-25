@@ -1,15 +1,25 @@
-### Hi, I'm Gianmaria
-#### and I'm studying Artificial Intelligence and Data Engineering at the University of Pisa.
-
-- 🔭 I’m currently working on this page.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <div> 
+  <img src="https://komarev.com/ghpvc/?username=Gianma23&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/in/gianmaria-saggini/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <h2>Hi, I'm Gianmaria </h2>
+  <h3>and I'm studying Artificial Intelligence and Data Engineering at the University of Pisa.</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gianma23" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gianma23&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
+
+
+- 🔭 I’m currently working on this page.
+
+
 
 
 <h3 align="left">Programming languages:</h3>
