@@ -1,9 +1,8 @@
 <div align="center">
   <div> 
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGianma23&labelColor=%23d9e3f0&countColor=%23ffa500">
-    <a href="https://www.linkedin.com/in/gianmaria-saggini/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/gianmaria-saggini/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="mailto:gianmaria.saggini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   </div>
   <h2>Hi, I'm Gianmaria </h2>
   <h3>and I'm studying Artificial Intelligence and Data Engineering at the University of Pisa.</h3>
