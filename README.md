@@ -13,9 +13,6 @@
 </div>
 
 
-- 🔭 I’m currently working on this page.
-
-
 
 
 <h3 align="left">Programming languages:</h3>
